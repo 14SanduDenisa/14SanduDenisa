@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14SanduDenisa
-- 👀 I’m interested in Python, HTML, CSS and JavaScript
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and JAVA.
+- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
